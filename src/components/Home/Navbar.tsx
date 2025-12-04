@@ -230,7 +230,7 @@ const Navbar = ({
               Original
             </Link>
             <Link
-              to={"https://github.com/yashsarode45/Exoape-Clone"}
+              to={"https://github.com/JavedHussain-06"}
               target="blank"
             >
               <FaGithub
@@ -240,7 +240,7 @@ const Navbar = ({
                 className=" w-[1.5vw] h-[2vw] hover:text-black transition-all"
               />
             </Link>
-            <Link to={"https://www.linkedin.com/in/yashsarode/"} target="blank">
+            <Link to={"https://www.linkedin.com/in/javed-hussain-ab430a169"} target="blank">
               <FaLinkedin
                 style={{
                   color: logoColor,

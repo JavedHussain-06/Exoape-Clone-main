@@ -89,7 +89,7 @@ const Story = ({
                     "Willem II Singel 8",
                     "6041 HS, Roermond",
                     "The Netherlands",
-                    "gobinda993720@gmail.com",
+                    "javedhussain23.20@gmail.com",
                   ].map((item) => (
                     <a key={item} className="block text-sm opacity-85" href="#">
                       {item}
